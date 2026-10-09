@@ -1,0 +1,1 @@
+var e=`/assets/hero-BSa8j5Vr.jpg`;export{e as t};

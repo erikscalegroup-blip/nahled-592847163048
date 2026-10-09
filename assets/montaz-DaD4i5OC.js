@@ -1,0 +1,1 @@
+var e=`/assets/montaz-Cy_1ji8W.jpg`;export{e as t};

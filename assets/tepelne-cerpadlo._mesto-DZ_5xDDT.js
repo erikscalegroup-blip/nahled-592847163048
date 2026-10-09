@@ -1,0 +1,1 @@
+import{f as e}from"./obsah-DzPSswlS.js";import{t}from"./index--RIwzd_y.js";import{t as n}from"./technicka-D5mii6G6.js";import{t as r}from"./vonkajsia-CmsfxANW.js";import{t as i}from"./MestoStranka-Bd0YKnMp.js";var a=e(),o=()=>{let{mesto:e}=t.useLoaderData();return(0,a.jsx)(i,{mesto:e,druh:`cerpadlo`,foto1:r,foto2:n})};export{o as component};

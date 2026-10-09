@@ -1,0 +1,1 @@
+import{f as e}from"./obsah-DzPSswlS.js";import{n as t}from"./index--RIwzd_y.js";import{t as n}from"./hero-Da6q2TJq.js";import{t as r}from"./montaz-DaD4i5OC.js";import{t as i}from"./MestoStranka-Bd0YKnMp.js";var a=e(),o=()=>{let{mesto:e}=t.useLoaderData();return(0,a.jsx)(i,{mesto:e,druh:`klima`,foto1:n,foto2:r})};export{o as component};

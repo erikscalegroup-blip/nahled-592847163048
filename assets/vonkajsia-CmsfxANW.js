@@ -1,0 +1,1 @@
+var e=`/assets/vonkajsia-D615IqzV.jpg`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/technicka-FmnsjXe0.jpg`;export{e as t};

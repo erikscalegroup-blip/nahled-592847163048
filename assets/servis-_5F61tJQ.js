@@ -1,0 +1,1 @@
+var e=`/assets/servis-C7xtT-7g.jpg`;export{e as t};
